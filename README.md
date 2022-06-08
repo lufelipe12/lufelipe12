@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on a 1 year fullstack bootcamp.
 
-- 🌱 I’m currently learning NodeJS.
+- 🌱 I’m currently learning Python.
 
 <a href="https://github.com/lufelipe12/github-readme-stats">
   <img height="175px" width="48%" src="https://github-readme-stats.vercel.app/api?username=lufelipe12&show_icons=true&count_private=true&theme=radical" />
