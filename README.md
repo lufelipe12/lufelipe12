@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in backend systems.
+- 🔭 I’m currently working in fullstack systems.
 
 - 🌱 I’m currently learning NestJS.
 
